@@ -13,7 +13,7 @@
 - **predict_kitti_resnet_real_images.ipynb**: Съдържа резултатите от прилагане на модела ResNet обучен върху KITTI dataset.
 - **predict_kitti_unet_real_images.ipynb**: Съдържа резултатите от прилагане на модела U-Net обучен върху KITTI dataset.
 - **predict_resnet_real_images.ipynb**: Съдържа резултатите от прилагане на модела ResNet обучен върху новосъздадения dataset.
-- **predict_unet_real_images.ipynb**: Съдържа резултатите от прилагане на модела UNet обучен върху новосъздадения dataset.
+- **predict_unet_real_images.ipynb**: Съдържа резултатите от прилагане на модела U-Net обучен върху новосъздадения dataset.
 
 
 Всеки от обучените модели е запазен в файл с разширение  **.keras**, например **model_kitti_resnet_1716910504.keras**, което предоставя възможност за бъдещо използване на модела. 
