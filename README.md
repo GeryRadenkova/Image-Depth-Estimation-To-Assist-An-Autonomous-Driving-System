@@ -17,7 +17,7 @@ The code is organized into several Python and Python Notebook files, each perfor
 
 <p>
 Each of the trained models is saved in a file with the **.keras** extension, such as **model_kitti_resnet_1716910504.keras**, which provides the opportunity for future use of the model. 
-This .kears files can be found in [models](https://drive.google.com/drive/folders/1nRc4k3qgn_itWADnP9jY3zcWyxqDGNsR?usp=drive_link).
+This .kears files can be found in [models][https://drive.google.com/drive/folders/1nRc4k3qgn_itWADnP9jY3zcWyxqDGNsR?usp=drive_link].
 
 To run the code for Mask R-CNN you need this [files](https://drive.google.com/drive/folders/19TxNh0yoyVVxbyYWubaMQJmgvGxrnZs-?usp=drive_link).
 
