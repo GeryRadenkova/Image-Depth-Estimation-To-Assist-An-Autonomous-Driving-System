@@ -16,7 +16,8 @@ The code is organized into several Python and Python Notebook files, each perfor
 - **predict_unet_real_images.ipynb**: Contains the results of applying the U-Net model trained on the newly created dataset.
 
 <p>
-Each of the trained models is saved in a file with the **.keras** extension, such as **model_kitti_resnet_1716910504.keras**, which provides the opportunity for future use of the model. This .kears files can be found in [trained models](https://drive.google.com/drive/folders/1nRc4k3qgn_itWADnP9jY3zcWyxqDGNsR?usp=drive_link).
+Each of the trained models is saved in a file with the **.keras** extension, such as **model_kitti_resnet_1716910504.keras**, which provides the opportunity for future use of the model. 
+This .kears files can be found in [trained models](https://drive.google.com/drive/folders/1nRc4k3qgn_itWADnP9jY3zcWyxqDGNsR?usp=drive_link).
 
 To run the code for Mask R-CNN you need this [files](https://drive.google.com/drive/folders/19TxNh0yoyVVxbyYWubaMQJmgvGxrnZs-?usp=drive_link).
 
