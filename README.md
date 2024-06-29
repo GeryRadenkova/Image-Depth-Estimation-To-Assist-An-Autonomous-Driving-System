@@ -1,6 +1,6 @@
 # Image-Depth-Estimation-To-Assist-An-Autonomous-Driving-System
 
-<p>This repository contains the code used for developing and testing the algorithms for depth estimation and object recognition in the context of autonomous driving. This code was used for conducting the experiments and validating the results presented in the thesis.</p>
+This repository contains the code used for developing and testing the algorithms for depth estimation and object recognition in the context of autonomous driving. This code was used for conducting the experiments and validating the results presented in the thesis.
 
 The code is organized into several Python and Python Notebook files, each performing specific tasks:
 
@@ -17,7 +17,7 @@ The code is organized into several Python and Python Notebook files, each perfor
 
 
 Each of the trained models is saved in a file with the **.keras** extension, such as **model_kitti_resnet_1716910504.keras**, which provides the opportunity for future use of the model. 
-This .kears files can be found in [models](https://drive.google.com/drive/folders/1nRc4k3qgn_itWADnP9jY3zcWyxqDGNsR?usp=drive_link)
+This .kears files can be found in [models](https://drive.google.com/drive/folders/1nRc4k3qgn_itWADnP9jY3zcWyxqDGNsR?usp=drive_link).
 
 To run the code for Mask R-CNN you need this [files](https://drive.google.com/drive/folders/19TxNh0yoyVVxbyYWubaMQJmgvGxrnZs-?usp=drive_link).
 
